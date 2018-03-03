@@ -16,5 +16,5 @@ Sala Prática: 1009 e 1008 (Icex)
 [Calendário]: https://docs.google.com/spreadsheets/d/1AJsQ9P8BawopEP8V1DMp1nMEfrdaLt6s69GxvJaSTuE
 [Informes]: #informes
 [TPs]: https://github.com/flaviovdf/AEDS1-2017-2/blob/master/enunciado.pdf
-[Listas]: https://github.com/flaviovdf/AEDS1-2017-2/listas
+[Listas]: https://github.com/flaviovdf/AEDS1-2017-2/tree/master/listas
 [Exemplos]: https://github.com/flaviovdf/AEDS1-2017-2
